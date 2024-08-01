@@ -69,13 +69,13 @@
     <p>
       Confusion Matrix of XGBoost Classifier (Testing Set).
       <p>
-       <img src="boost_matrix(1).png">
+       <img src="boost_matrix.png">
       </p>
     </p>
     <p>
       XGboost Feature Importance Plot.
       <p>
-        <img src="boost_importance(1).png">
+        <img src="boost_importance.png">
       </p>
     </p>
     <p>
