@@ -52,7 +52,6 @@
     <ul>
       <li>Python (Machine Learning Modeling and App preparation)</li>
       <li>AWS S3 (Model Storage)</li>
-  
     </ul>
   </section>
 </p>
