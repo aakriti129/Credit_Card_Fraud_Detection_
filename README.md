@@ -63,19 +63,19 @@
     <p>
       Correlation Matrix between numeric features.
       <p>
-        <img src="Static/corr_matrix.png">
+        <img src="corr_matrix.png">
       </p>
     </p>  
     <p>
       Confusion Matrix of XGBoost Classifier (Testing Set).
       <p>
-       <img src="Static/boost_matrix.png">
+       <img src="boost_matrix(1).png">
       </p>
     </p>
     <p>
       XGboost Feature Importance Plot.
       <p>
-        <img src="Static/boost_importance.png">
+        <img src="boost_importance(1).png">
       </p>
     </p>
     <p>
